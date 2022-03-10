@@ -12,13 +12,13 @@ Your baby one day will see on chain all the messages. And be able to check all N
 
 ### Installation
 
-# Clone repo and check out starter branch
+Clone repo and check out starter branch
 git clone https://github.com/oicred/BornTodayNFTWall --branch start<br />
 
-# Change to the newly created directory
+Change to the newly created directory
 cd BornTodayNFTWall
 
-# Install project dependencies
+Install project dependencies
 npm install
 
 # Deploy Contracts
