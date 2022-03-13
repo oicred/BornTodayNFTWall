@@ -32,6 +32,7 @@ npx hardhat run --network matic scripts/mint.js - Mint NFT<br />
 ### Using
 A polygon contract with comment threads from friends. They will write this contract publishing the messages of this day. A NFT will be generated after the comment and sent to them.
 
+Wall contract 0x7D6076Dd21d2653c4084409c79241Fa07d6a7315<br />
 NFT contract 0xa7eb177cf1a3a39de3b1380d374437bfe00b8dd7 www.pinata.cloud<br />
 
 Tech Stack:<br />
